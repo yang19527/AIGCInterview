@@ -2,7 +2,7 @@
 
 > 本人是某双一流大学硕士生，也最近刚好准备参加 2024年秋招，在找大模型算法岗实习中，遇到了很多有意思的面试，所以将这些面试题记录下来，并分享给那些和我一样在为一份满意的offer努力着的小伙伴们！！！
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/goiboxqfW2fYU4UrnNhiaS7UvNxic6vibCqicPcNnNQic02zO1ia6ZhrkRbvZfltWe8EUvibOIcNIIoSNmqx0Qs09xGghg/640?wx_fmt=jpeg&from=appmsg&wxfrom=13)
+![](https://github.com/yang19527/AIGCInterview/blob/main/zsxq.jpg)
 
 
 - [AI Agent 与 Agentic AI 有什么区别](https://mp.weixin.qq.com/s?__biz=MzkyNTY0Mjg0OQ==&mid=2247487729&idx=1&sn=2defb3b51ce8572181dfd2bcc9f869a5&chksm=c07a2581c2dd3885272d6370e7ec4c7393ce0ff648f55a64da88994a4a78307453650165fc74&scene=126&sessionid=1747751874#rd)
