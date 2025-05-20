@@ -1,9 +1,53 @@
-# AIGC 算法工程师经典百问
+# 大模型算法工程师经典百问
 
 > 本人是某双一流大学硕士生，也最近刚好准备参加 2024年秋招，在找大模型算法岗实习中，遇到了很多有意思的面试，所以将这些面试题记录下来，并分享给那些和我一样在为一份满意的offer努力着的小伙伴们！！！
 
 ![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/goiboxqfW2fYU4UrnNhiaS7UvNxic6vibCqicPcNnNQic02zO1ia6ZhrkRbvZfltWe8EUvibOIcNIIoSNmqx0Qs09xGghg/640?wx_fmt=jpeg&from=appmsg&wxfrom=13)
 
+
+- [AI Agent 与 Agentic AI 有什么区别](https://mp.weixin.qq.com/s?__biz=MzkyNTY0Mjg0OQ==&mid=2247487729&idx=1&sn=2defb3b51ce8572181dfd2bcc9f869a5&chksm=c07a2581c2dd3885272d6370e7ec4c7393ce0ff648f55a64da88994a4a78307453650165fc74&scene=126&sessionid=1747751874#rd)
+- [BF16量化为int8的过程如何实现](https://mp.weixin.qq.com/s/8D9EgOllJogXBDx1VZeMsA)
+- [专家混合模型（MoE）面试常考题梳理](https://mp.weixin.qq.com/s?__biz=MzkyNTY0Mjg0OQ==&mid=2247487706&idx=1&sn=2a1d4e55ac36c536a4d27e0931b91dcb&chksm=c0e36569ddcd55f5b2062ac93b9c5f8ef9ff6435ce19ccda2067039d544c53eda1b667e75a74&scene=126&sessionid=1747751874#rd)
+- [训练一个大模型需要多少显存？](https://mp.weixin.qq.com/s/Z9HHEDarE_zm-5LO_qcAqQ)
+- [deepseek v3 生成答案的速度为什么可以这么快？](https://mp.weixin.qq.com/s/cg-KMwkIo3x4wCPdQR2KqA)
+- [美团面试官问：MHA/MQA/GQA 的区别是什么？](https://mp.weixin.qq.com/s/buCI1Vu4wQRhVzTFLDAHKA)
+- [大模型面试题：为什么LLM推断中缓存KV比缓存Q更有效?](https://mp.weixin.qq.com/s/H0r32eBYA49lFZXNDmaPug)
+- [学妹问：SFT时哪些参数比较重要?](https://mp.weixin.qq.com/s/pvMslnATrWlXd1doLxNvjA)
+- [如何缓解RL过程中的对齐税?](https://mp.weixin.qq.com/s/A4YpXZy24klSVzTSl7hDVA)
+- [211本硕二战腾讯大模型算法岗，草草结束。。。](https://mp.weixin.qq.com/s?__biz=MzkyNTY0Mjg0OQ==&mid=2247487685&idx=1&sn=06918724798217ad2d12951f5c35f995&chksm=c0a8e8b4b2e07e1d0da1dc84eb7f3f415ac88af9840e5776047913f3642d2bd206dc7b740b39&scene=126&sessionid=1747751874#rd)
+- [百度暑期算法grpo缺点是啥?](https://mp.weixin.qq.com/s/GCwZzNsI9k8cZg-cwL1lpg)
+- [RL将死，In-Context RL是未来](https://mp.weixin.qq.com/s/CJ97bSxMfBnn7k7ZLU1pJw)
+- [Transformer为什么使用多头注意力机制?](https://mp.weixin.qq.com/s/74J5Ec_p3lqwZxOiwiKVRA)
+- [面试官问：大模型领域，有哪些提高大规模模型的训练和推理效率库？](https://mp.weixin.qq.com/s/KoteGfLIcyWy1eoYYCF2zg)
+- [Attention和全连接层有什么区别？](https://mp.weixin.qq.com/s/jIAICX8PfF2Un1fW1Kt6EA)
+- [交叉熵 log 以e为底而不是 2](https://mp.weixin.qq.com/s/fZV1_IL-Cd0KswFMC2WYrg)
+- [面试官问：说一下有哪些 RAG 流程优化策略？](https://mp.weixin.qq.com/s/0IUt18cvPe022Vpd66nHzw)
+- [文档分割模块优化策略梳理](https://mp.weixin.qq.com/s/kUhfzklwmJmvxg6PAbi_lg)
+- [面试官问：Dropout如何保证训练和预测阶段的一致性？](https://mp.weixin.qq.com/s/hQJ5DWQ1a4xPInQagYwgDQ)
+- [为什么 GRPO 容易出现 reward 崩塌？](https://mp.weixin.qq.com/s/zm6wv2FAkVDVlnP2Xp191w)
+- [RMSNorm和LayerNorm有什么区别](https://mp.weixin.qq.com/s/lutZ51NOnh3ZRdMfJkl3Bg)
+- [阿里面试官问：LLM 和搜广推都有 MoE，请问区别在哪里？](https://mp.weixin.qq.com/s/KkyLYJAuy7uscOE3kLqAtA)
+- [试官MoE模型的专家个数是如何决定的？](https://mp.weixin.qq.com/s/MO9t-4uN4PN8HjeEm7f_tA)
+- [面完小红书大模型算法岗，心态崩了。。。](https://mp.weixin.qq.com/s?__biz=MzkyNTY0Mjg0OQ==&mid=2247487673&idx=1&sn=9846ce58c8ec90d758579b73e256f2c1&chksm=c04ee7517fa19ba8e7d51166bdf85a74e2d7f81cef87d876d7e936d4a2d920eb8752df0de0ce&scene=126&sessionid=1747751874#rd)
+- [【面试题】小红书一面--LSTM 的原理是什么？](https://t.zsxq.com/YfxMe)
+- [【面试题】阿里一面--Beam Search 的缺点?](https://t.zsxq.com/RiIfy)
+- [大模型面试题：为什么LLM推断中缓存KV比缓存Q更有效?](https://articles.zsxq.com/id_33tammzip748.html)
+- [美团面试官问：MHA/MQA/GQA 的区别是什么？](https://articles.zsxq.com/id_ff5gvir8udcx.html)
+- [学妹问：SFT时哪些参数比较重要?](https://articles.zsxq.com/id_warzlp1n47oj.html)
+- [小米二面: QLoRA和LORA有什么区别?](https://articles.zsxq.com/id_e62bxjm0bsee.html)
+- [面试官问：如何克服神经网络训练中argmax的不可导性](https://articles.zsxq.com/id_4mwa6nr63kll.html)
+- [面试官问：为什么深度学习需要tensor 而不是numpy array?](https://articles.zsxq.com/id_enqwr6wqkjrv.html)
+- [Transformer Encoder/Decoder结构中的掩码Mask介绍？](https://articles.zsxq.com/id_5wgtkqimgn9q.html)
+- [面试官：Adam和AdamW有什么区别?](https://articles.zsxq.com/id_i9b8arjwt6mo.html)
+- [DeepSeek 面试题总结](https://articles.zsxq.com/id_qc608nk3l891.html)
+- [大模型的温度代表了什么？其实来源于热力学和统计力学](https://articles.zsxq.com/id_8x01a88g90u7.html)
+- [面试官问：大模型领域，有哪些提高大规模模型的训练和推理效率库？](https://mp.weixin.qq.com/s/UDisiTH-jZeR2Qwn0iC1WQ)
+- [阿里面试官问：为什么Transformer的FFN需要升维再降维?](https://mp.weixin.qq.com/s/71teL9kHfPtxgCcxG7hj7w)
+- [面试官问：如何在搜推广中利用LLM](https://mp.weixin.qq.com/s/skNhj24V1pjMbviCiKeKNQ)
+- [面试官:大模型的量化为什么不会失之毫厘谬以千里？](https://mp.weixin.qq.com/s/o9OkSyEIMDJpp-CSAo9eZA)
+- [Transformer 面试常考题快问快答](https://mp.weixin.qq.com/s/lxgV3cLBW5aXwrlTcH-DpA)
+- [面试官：解释下大模型微调中的灾难性遗忘问题](https://mp.weixin.qq.com/s/lmzZIRtaPf-9zYEOs5bRAA)
+- [面试官：解释一下卷积神经网络（CNN）的基本结构](https://mp.weixin.qq.com/s/-IoVr_VbjY766mxrPNr_lw)
 - [transformer里PE为什么不采用concatenation的方式？](https://mp.weixin.qq.com/s/JYuBoQnTQDYOnNDwFGzvFQ)
 - [讲一下PostNorm 和 PreNorm？这两个有什么优缺点？](https://mp.weixin.qq.com/s/6JRDQq1fCHqF4dgEywSmxg)
 - [大模型SFT不就好了，为什么还要RLHF？](https://mp.weixin.qq.com/s/-ovjctqf0jGBE4sX7ld4rw)
@@ -133,8 +177,7 @@
 - [【面试题】大模型推理的时候 top k 和 top p 同时设置的时候怎么采样？](https://articles.zsxq.com/id_gv4gt882cwl7.html)
 - [给一些 token id 和 对应的 tokenizer， 可以将其无损的还原为原始文本么？](https://articles.zsxq.com/id_3c4i8te035eq.html)
 - [【面试题】字节一面：大模型如何评测以及当前测评的困境](https://articles.zsxq.com/id_l6ovbio4tzqh.html)
-
-
+- [Transformer Encoder/Decoder结构中的掩码Mask介绍](https://articles.zsxq.com/id_vu3h55xaavh8.html)
 - [算法岗面试中，C++高频题，真的很有 用](https://articles.zsxq.com/id_zjw9twlrmm2v.html)
 
-前馈层
+
